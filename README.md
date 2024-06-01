@@ -1,3 +1,5 @@
+> Based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim), the origin `README.md` is as below. 
+
 # kickstart.nvim
 
 ## Introduction
